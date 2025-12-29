@@ -20,7 +20,7 @@ I'm Shaikh Rameez <br> I'm a Computer Science (AIML) undergraduate with a strong
    
   </a>
 
-  <a href="https://x.com/https://x.com/yellow_void22?t=80vVl_tew0ZPBhvNK0eXWw&s=09">
+  <a href="https://x.com/yellow_void22">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=x&theme=dark">
 </a>
 
