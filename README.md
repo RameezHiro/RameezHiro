@@ -37,6 +37,8 @@ I'm Shaikh Rameez <br> I'm a Computer Science (AIML) undergraduate with a strong
 ![](https://nirzak-streak-stats.vercel.app/?user=RameezHiro&theme=yeblu&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RameezHiro&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!--
-**RameezHiro/RameezHiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zyara-1ot&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
 
