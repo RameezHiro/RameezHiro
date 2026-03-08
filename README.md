@@ -38,7 +38,7 @@ I'm Shaikh Rameez <br> I'm a Computer Science (AIML) undergraduate with a strong
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RameezHiro&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zyara-1ot&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RameezHiro&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
 
