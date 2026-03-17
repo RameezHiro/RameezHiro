@@ -16,7 +16,7 @@ First-year CS-AIML student passionate about Machine Learning, Data Analytics, an
 
 
 # Tech Stack:
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,matplotlib,scikitlearn,mysql,streamlit,git,github,vscode,linux&theme=dark">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,matplotlib,scikitlearn,streamlit,git,github,vscode,googlecolab,linux&theme=dark">
 
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/shaikh-rameez/">
