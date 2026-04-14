@@ -12,7 +12,7 @@ First-year CS-AIML student passionate about Machine Learning, Data Analytics, an
 
 🏆 **Achievement:** Hacktoberfest 2025 Supercontributor
 
-🚀 **Goal:** Building ML algorithms from scratch, preparing for hackathons & Year 2 internship
+🚀 **Goal:** Building ML algorithms from scratch, preparing for hackathons
 
 
 # Tech Stack:
