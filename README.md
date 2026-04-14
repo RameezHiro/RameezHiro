@@ -1,22 +1,43 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F8FD56&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Rameez+;Machine+Learning;Building+From+Scratch;Research;Discipline;Consistency" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F8FD56&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Rameez+;Machine+Learning;Building+From+Scratch;Research;Discipline;Consistency" alt="Typing SVG" />
+  </a>
+</p>
 
 # 💫 About Me:
-I'm Shaikh Rameez
+I'm Shaikh Rameez 
 
 First-year CS-AIML student passionate about Machine Learning, Data Analytics, and AI research.
 
-**Philosophy:** *Learning through Discipline, Consistency, Hands-on projects, and Fundamentals*
-
+**Philosophy:** *Learning through Discipline, Consistency, Hands-on Projects, and Fundamentals*
 
 🏆 **Achievement:** Hacktoberfest 2025 Supercontributor
 
 🚀 **Goal:** Building ML algorithms from scratch, preparing for hackathons
 
+---
 
-# Tech Stack:
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,matplotlib,scikitlearn,streamlit,fastapi,vercel,firebase,googlecolab,git,github,vscode&theme=dark">
+# 🛠️ Tech Stack:
+
+**Languages**  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark">
+
+**ML / Data Science**  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,scikitlearn&theme=dark">
+
+**Backend & APIs**  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark">
+
+**Frontend / UI**  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit&theme=dark">
+
+**Deployment & Cloud**  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,firebase,googlecolab&theme=dark">
+
+**Tools & Version Control**  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode&theme=dark">
+
+---
 
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/shaikh-rameez/">
@@ -32,7 +53,9 @@ First-year CS-AIML student passionate about Machine Learning, Data Analytics, an
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light">
 </a>
 
-# GitHub Stats:
+---
+
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RameezHiro&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RameezHiro&theme=yeblu&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RameezHiro&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
