@@ -50,7 +50,6 @@ I'm Shaikh Rameez — a first-year CS-AIML student focused on Machine Learning, 
   <strong>Database</strong><br/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&theme=dark" />
   <br/>
-  <sub>Firestore — NoSQL document database for real-time data storage and retrieval</sub>
 </div>
 
 <br/>
@@ -59,7 +58,6 @@ I'm Shaikh Rameez — a first-year CS-AIML student focused on Machine Learning, 
   <strong>AI / LLM Integration</strong><br/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini&theme=dark" />
   <br/>
-  <sub>Gemini API — Google's multimodal LLM for generative AI features in applications</sub>
 </div>
 
 <br/>
@@ -68,9 +66,6 @@ I'm Shaikh Rameez — a first-year CS-AIML student focused on Machine Learning, 
   <strong>Deployment & Cloud</strong><br/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,railway,firebase&theme=dark" />
   <br/>
-  <sub>Firebase Hosting — Fast, secure static and dynamic web app hosting via Google's CDN</sub><br/>
-  <sub>Railway — Backend and full-stack deployment platform for server-side applications</sub><br/>
-  <sub>Vercel — Frontend deployment and edge hosting</sub>
 </div>
 
 <br/>
