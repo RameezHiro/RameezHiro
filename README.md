@@ -66,7 +66,7 @@ I'm Shaikh Rameez — a first-year CS-AIML student focused on Machine Learning, 
 
 <div>
   <strong>Deployment & Cloud</strong><br/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,firebase&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,railway,firebase&theme=dark" />
   <br/>
   <sub>Firebase Hosting — Fast, secure static and dynamic web app hosting via Google's CDN</sub><br/>
   <sub>Railway — Backend and full-stack deployment platform for server-side applications</sub><br/>
