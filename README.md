@@ -101,9 +101,9 @@ I'm Shaikh Rameez — a first-year CS-AIML student focused on Machine Learning, 
 
 # GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=RameezHiro&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RameezHiro&theme=yeblu&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RameezHiro&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RameezHiro&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=RameezHiro&theme=yeblu&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RameezHiro&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RameezHiro&color=yellow&style=flat-square&label=Profile+Views" alt="Profile views" />
