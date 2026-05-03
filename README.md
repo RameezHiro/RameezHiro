@@ -77,7 +77,7 @@ I'm Shaikh Rameez — a first-year CS-AIML student focused on Machine Learning, 
 
 <div>
   <strong>Tools & Version Control</strong><br/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,jupyter,googlecolab&theme=dark" />
 </div>
 
 ---
