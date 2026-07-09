@@ -6,7 +6,7 @@
 
 # About Me
 
-I'm Shaikh Rameez — a first-year CS-AIML student focused on Machine Learning, Data Analytics, and AI research.
+I'm Shaikh Rameez — a Second-year CS-AIML student focused on Machine Learning, Data Analytics, and Backend.
 
 **Philosophy:** *Learning through Discipline, Consistency, Hands-on Projects, and Fundamentals*
 
@@ -64,7 +64,7 @@ I'm Shaikh Rameez — a first-year CS-AIML student focused on Machine Learning, 
 
 <div>
   <strong>Deployment & Cloud</strong><br/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,railway,firebase&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,railway,render,firebase&theme=dark" />
   <br/>
 </div>
 
