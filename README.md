@@ -34,21 +34,21 @@ I'm Shaikh Rameez — a Second-year CS-AIML student focused on Machine Learning,
 
 <div>
   <strong>Backend & APIs</strong><br/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,firebase&theme=dark" />
 </div>
 
 <br/>
 
 <div>
   <strong>Frontend / UI</strong><br/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,react,streamlit&theme=dark" />
 </div>
 
 <br/>
 
 <div>
   <strong>Database</strong><br/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase,mysql&theme=dark" />
   <br/>
 </div>
 
@@ -56,7 +56,7 @@ I'm Shaikh Rameez — a Second-year CS-AIML student focused on Machine Learning,
 
 <div>
   <strong>AI / LLM Integration</strong><br/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini,groq&theme=dark" />
   <br/>
 </div>
 
